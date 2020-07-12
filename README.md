@@ -24,3 +24,9 @@ A fixed mindset of challenge avoidance techniques (You know what I'm talking abo
 
 ### Thanks so much for listening to my thoughts! 
 ### Come check out my Github Portfolio Page! https://github.com/RachSea206 
+
+
+![Image of Brain](https://image.freepik.com/free-vector/cartoon-brain-idea-creative-design_24877-14826.jpg)
+ 
+
+# Now, let me try and teach you something!
