@@ -37,8 +37,16 @@ A fixed mindset of challenge avoidance techniques (You know what I'm talking abo
 
 #### Its actually pretty easy once you get the hang of it! It allows you to enter basic text into a document then does all that HTML business for you. Although you can use HTML but we can talk about that later :) 
 
-#### Here are some basics to get started:
+Here are some basics to get started:
+* '#' this is a level one heading
+* '###' this is a level three heading
+* '######' this is a level six heading 
 
-* '#' is a level one heading 
+If you need a quote, just do this:
+* '>' 
+* ex. >"quote"
+> "The quickest way to lose is by trying to win" -Helio Gracie 
+
+
 
 
