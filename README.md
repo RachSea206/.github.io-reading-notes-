@@ -29,7 +29,7 @@ A fixed mindset of challenge avoidance techniques (You know what I'm talking abo
 ![Image of Brain](https://image.freepik.com/free-vector/cartoon-brain-idea-creative-design_24877-14826.jpg)
  
 
-# Now, let me try and teach you something!
+## Now, let me try and teach you something!
 
 ## **What is _Markdown?_** 
 
