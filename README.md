@@ -31,5 +31,6 @@ A fixed mindset of challenge avoidance techniques (You know what I'm talking abo
 
 ## Now, let me try and teach you something!
 
-## **What is _Markdown?_** 
+## **What is _Markdown on Github?_** 
 
+>"Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown"
