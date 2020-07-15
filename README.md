@@ -33,4 +33,12 @@ A fixed mindset of challenge avoidance techniques (You know what I'm talking abo
 
 ## **What is _Markdown on Github?_** 
 
->"Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown"
+>*"Markdown is a lightweight markup language with plain-text-formatting syntax, Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown"*
+
+#### Its actually pretty easy once you get the hang of it! It allows you to enter basic text into a document then does all that HTML business for you. Although you can use HTML but we can talk about that later :) 
+
+#### Here are some basics to get started:
+
+* '#' is a level one heading 
+
+
